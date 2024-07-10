@@ -1,0 +1,28 @@
+E:\C Sharp\SummerCode\main\develop\feature\add-func\bin\Debug\net8.0\add-func.exe
+E:\C Sharp\SummerCode\main\develop\feature\add-func\bin\Debug\net8.0\add-func.deps.json
+E:\C Sharp\SummerCode\main\develop\feature\add-func\bin\Debug\net8.0\add-func.runtimeconfig.json
+E:\C Sharp\SummerCode\main\develop\feature\add-func\bin\Debug\net8.0\add-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\add-func\bin\Debug\net8.0\add-func.pdb
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\add-func.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\add-func.AssemblyInfoInputs.cache
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\add-func.AssemblyInfo.cs
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\add-func.csproj.CoreCompileInputs.cache
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\add-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\refint\add-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\add-func.pdb
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\add-func.genruntimeconfig.cache
+E:\C Sharp\SummerCode\main\develop\feature\add-func\obj\Debug\net8.0\ref\add-func.dll
+E:\C Sharp\SummerCode\Code Mẫu\bin\Debug\net8.0\add-func.exe
+E:\C Sharp\SummerCode\Code Mẫu\bin\Debug\net8.0\add-func.deps.json
+E:\C Sharp\SummerCode\Code Mẫu\bin\Debug\net8.0\add-func.runtimeconfig.json
+E:\C Sharp\SummerCode\Code Mẫu\bin\Debug\net8.0\add-func.dll
+E:\C Sharp\SummerCode\Code Mẫu\bin\Debug\net8.0\add-func.pdb
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\add-func.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\add-func.AssemblyInfoInputs.cache
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\add-func.AssemblyInfo.cs
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\add-func.csproj.CoreCompileInputs.cache
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\add-func.dll
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\refint\add-func.dll
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\add-func.pdb
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\add-func.genruntimeconfig.cache
+E:\C Sharp\SummerCode\Code Mẫu\obj\Debug\net8.0\ref\add-func.dll

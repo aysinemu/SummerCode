@@ -1,0 +1,14 @@
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\bin\Debug\net8.0\subt-func.exe
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\bin\Debug\net8.0\subt-func.deps.json
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\bin\Debug\net8.0\subt-func.runtimeconfig.json
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\bin\Debug\net8.0\subt-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\bin\Debug\net8.0\subt-func.pdb
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\subt-func.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\subt-func.AssemblyInfoInputs.cache
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\subt-func.AssemblyInfo.cs
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\subt-func.csproj.CoreCompileInputs.cache
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\subt-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\refint\subt-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\subt-func.pdb
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\subt-func.genruntimeconfig.cache
+E:\C Sharp\SummerCode\main\develop\feature\subt-func\obj\Debug\net8.0\ref\subt-func.dll

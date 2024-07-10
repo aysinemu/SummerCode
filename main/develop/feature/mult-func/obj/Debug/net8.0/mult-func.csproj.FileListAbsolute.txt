@@ -1,0 +1,14 @@
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\bin\Debug\net8.0\mult-func.exe
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\bin\Debug\net8.0\mult-func.deps.json
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\bin\Debug\net8.0\mult-func.runtimeconfig.json
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\bin\Debug\net8.0\mult-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\bin\Debug\net8.0\mult-func.pdb
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\mult-func.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\mult-func.AssemblyInfoInputs.cache
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\mult-func.AssemblyInfo.cs
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\mult-func.csproj.CoreCompileInputs.cache
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\mult-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\refint\mult-func.dll
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\mult-func.pdb
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\mult-func.genruntimeconfig.cache
+E:\C Sharp\SummerCode\main\develop\feature\mult-func\obj\Debug\net8.0\ref\mult-func.dll
